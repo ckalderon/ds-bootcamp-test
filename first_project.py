@@ -15,3 +15,8 @@ def divide(a,b):
     return(a/b) #a over b
 
 #update: 13-11-2019 addded only a comment line!
+
+
+#update 
+def functt(a,b):
+    print('test')
